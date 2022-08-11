@@ -1,0 +1,192 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.left-side {
+    display: flex;
+    align-items: center;
+}
+
+.right-side {
+    display: flex;
+    align-items: center;
+}
+
+header, main, footer{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+header {
+    height: 90px;
+    max-width: 1440px;
+    padding: 0px 80px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    justify-content: space-between;
+}
+.logo {
+    margin-right: 20px;
+}
+
+.navigation {
+    text-align: center;
+}
+
+.block1ul {
+    list-style-type: none;
+    display: flex;
+}
+
+li {
+    font-weight: 700px;
+    margin-right: 32px;
+    font-size: 22px;
+    line-height: 29px;
+    font-style: normal;
+}
+
+.telnumber {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;  
+    margin-right: 27px;
+}
+
+.h-icons>img {
+    margin-right: 20px;
+}
+
+.block1 {
+    width: 1281px;
+    height: 600px;
+    background: #F5F5F5;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding-left: 62px;
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    margin-bottom: 12px;
+    font-weight: 700;
+    font-size: 41px;
+}
+
+.pblock1 {
+    font-weight: 400;
+    font-size: 28px;
+    margin-bottom: 30px;
+
+}
+
+.Text1 {
+    padding-top: 141px;
+}
+ 
+input::placeholder {
+    margin-top: 20px;
+    margin-left: 19px;
+}
+input {
+    border: 2px solid rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    width: 514px;
+    height: 62px;
+    font-weight: 400px;
+    font-size: 18px;
+    padding: 20px 0px 20px 20px;
+}
+
+.block2 {
+    justify-content: space-between;
+    padding: 40px 80px 80px 80px;
+}
+
+.cards {
+    display: flex;
+}
+
+.card1 {
+    background: #FFFFFF;
+    border: 1.5px solid #F2F2F2;
+    border-radius: 5px;
+    display: flex;
+    width: 400px;
+}
+
+.tekst {
+    padding: 45px 30px 38px 15px;
+}
+
+.card2 {
+    background: #FFFFFF;
+    border: 1.5px solid #F2F2F2;
+    border-radius: 5px;
+    display: flex;
+    width: 400px;
+    margin-left: 25px;
+}
+
+.tekst-2 {
+   padding: 45px 30px 38px 15px;
+    
+}
+
+.card3 {
+    background: #FFFFFF;
+    border: 1.5px solid #F2F2F2;
+    border-radius: 5px;
+    display: flex;
+    width: 435px;
+    margin-left: 25px;
+}
+
+.tekst-3 {
+   padding: 45px 30px 38px 15px;
+    
+}
+
+.block-left {
+    width: 380px;
+    height: 732px;
+    background: #f7f7f7;
+    border-radius: 5px;
+    flex-direction: column;
+    padding: 10px 22px 238px 0px;
+    display: flex;
+}
+
+ 
+
+
+
+.block-right {
+    display: flex;
+}
+
+.block3koleso {
+    display: flex;
+    padding: 10px 22px 20px;
+    background-color: blue;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.koleso {
+    display: flex;
+    font-weight: 500;
+    font-size: 22px;
+    color: #F2F2F2;
+}
+
+.fotoshop {
+    margin-right: 19px;
+}

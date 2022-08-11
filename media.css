@@ -1,0 +1,43 @@
+@media (max-width: 390px ) {
+     nav {
+        display: none;
+     }
+    header{ background: white;
+            flex-direction: column;
+            padding: 0 22.5px;
+            margin-top: 30px;
+            padding-bottom: 197px;
+            }
+
+    
+    .logo{ margin-bottom: 22px;
+
+    }
+    .telnumber {margin-bottom: 22px;
+
+    }
+    .text1 {
+        text-align: center;
+
+    }
+    .h1 {
+
+    }
+    p {
+
+    }
+    .imgblock1 {
+        position: static;
+    }
+    .block1 {
+        flex-direction: column-reverse;
+        background-color: white;
+        margin-top: 274px;
+        padding: 0 22.5px;
+    }
+    .block2 {
+        display: none;
+    }
+        
+        }
+    
